@@ -142,17 +142,17 @@
 - `against` :  反对(prep)
 - `among` :  其中、之间(prep)
 - `at` :  在（prep）
-- `before` : 
-- `between` : 
-- `by` : 
-- `down` : 
-- `from` : 
-- `in` : 
-- `off` : 
-- `on` : 
-- `over` : 
-- `through` : 
-- `to` : 
+- `before` :  之前、以前(prep)
+- `between..and` :  之间(prep)
+- `by` :  经过、由(prep)
+- `down` : 往下、下面(prep)
+- `from` : 从、自(prep)
+- `in` :  里、在(prep)
+- `off` :  断、离开(prep)
+- `on` :  在、上面(prep)
+- `over` : 超过、多余(prep)
+- `through` : 通过、经过(prep)
+- `to` : 至、到(prep)
 - `under` : 
 - `up` : 
 - `with` : 
