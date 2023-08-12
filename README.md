@@ -153,71 +153,71 @@
 - `over` : 超过、多余(prep)
 - `through` : 通过、经过(prep)
 - `to` : 至、到(prep)
-- `under` : 
-- `up` : 
-- `with` : 
-- `as` : 
-- `for` : 
-- `of` : 
-- `till` : 
-- `than` : 
-- `a` : 
-- `the` : 
-- `all` : 
-- `any` : 
-- `every` : 
-- `little` : 
-- `much` : 
-- `no` : 
-- `other` : 
-- `some` : 
-- `such` : 
-- `that` : 
-- `this` : 
-- `I` : 
-- `he` : 
-- `you` : 
-- `who` : 
-- `and` : 
-- `because` : 
-- `but` : 
-- `or` : 
-- `if` : 
-- `though` : 
-- `while` : 
-- `how` : 
-- `when` : 
-- `where` : 
-- `why` : 
-- `again` : 
-- `ever` : 
-- `far` : 
-- `forward` : 
-- `here` : 
-- `near` : 
-- `now` : 
-- `out` : 
-- `still` : 
-- `then` : 
-- `there` : 
-- `together` : 
-- `well` : 
-- `almost` : 
-- `enough` : 
-- `even` : 
-- `not` : 
-- `only` : 
-- `quite` : 
-- `so` : 
-- `very` : 
-- `tomorrow` : 
-- `yesterday` : 
-- `north` : 
-- `south` : 
-- `east` : 
-- `west` : 
-- `please` : 
-- `yes` : 
+- `under` : 下面、在下面（prep）
+- `up` : 上面、向上（prep）
+- `with` :  和、跟...一起（prep）
+- `as` :  如、作为（prep）
+- `for` :  为了、对于（prep）
+- `of` :  的、于（prep）
+- `till` :  直到、为止（prep）
+- `than` :  比（prep）
+- `a` :  一个（art）
+- `the` :  这、那个（art）
+- `all` :  全部、所有（pron）
+- `any` :  任何、所有（pron）
+- `every` :  每一个、凡是(adj)
+- `little` :  小的、少量的（adj）
+- `much` : 很多、大量的（adj）
+- `no` :  不、没有、拒绝（adj）
+- `other` :  其他、另外（adj）
+- `some` :  一些、有些（adj）
+- `such` :  这样、这么（adj）
+- `that` :  那、那个（pron）
+- `this` : 这、这个（pron）
+- `I` :  我 （pron）
+- `he` : 他 （pron）
+- `you` : 你、你们（pron）
+- `who` : 谁 （pron）
+- `and` : 和 （pron）
+- `because` :  因为（conj）
+- `but` :  但是、可是、不过 （conj）
+- `or` : 或者、还是（conj）
+- `if` :  如果 （conj）
+- `though` :  尽管、虽然（conj）
+- `while` : 尽管（conj）
+- `how` :  如何、怎样（adv）
+- `when` :  什么时候、几时（adv）
+- `where` : 什么地方、何处（adv）
+- `why` : 什么原因、怎么（adv）
+- `again` : 再一次、又（adv）
+- `ever` : 曾经、从前（adv）
+- `far` : 远的（adj）
+- `forward` : 先前、发送（adv）
+- `here` : 这里、此地（adv）
+- `near` : 靠近、接近（adv）
+- `now` :  现在、如今（adv）
+- `out` :  出去、赶出、外边、过时（adv）
+- `still` : 仍然、依然（adv）
+- `then` :  然后、接着（adv）
+- `there` : 那里、那边（adv）
+- `together` : 一起、共同（adv）
+- `well` : 很好、出色（adv）
+- `almost` :  几乎、接近（adv）
+- `enough` : 足够的、满的（adj）
+- `even` : 甚至、相等（adv）
+- `not` :  不是、没有（adv）
+- `only` : 仅有、只有（adv）
+- `quite` : 相当、比较 (adv)
+- `so` : 如此、所以（adv）
+- `very` : 非常、十分、太（adv）
+- `tomorrow` : 明天、明日（n）
+- `yesterday` : 昨天、昨日（n）
+- `north` : 北方、北面（n）
+- `south` : 南方、南面（n）
+- `east` : 东方、东面（n）
+- `west` : 西方、西面（n）
+- `please` : 请（n）
+- `yes` : 是的、对（n）
 
 
 
