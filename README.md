@@ -227,41 +227,41 @@
 
 - `account` :  账户（n）、认为（v）
 - `act` :  行为、作为（n）
-- `addition` :
-- `adjustment` :
-- `advertisement` :
-- `agreement` :
-- `air` :
-- `amount` :
-- `amusement` :
-- `animal` :
-- `answer` :
-- `apparatus` :
-- `approval` :
-- `argument` :
-- `art` :
-- `attack` :
-- `attempt` :
-- `attention` :
-- `attraction` :
-- `authority` :
-- `back` :
-- `balance` :
-- `base` :
-- `behavior` :
-- `belief` :
-- `birth` :
-- `bit` :
-- `bite` : 
-- `blood` :
-- `blow` :
-- `body` :
-- `brass` :
-- `bread` :
-- `breath` :
-- `brother` :
-- `building` :
-- `burn` :
+- `addition` : 添加、加法（n）
+- `adjustment` : 调整、校准（n）
+- `advertisement` : 广告（n）
+- `agreement` : 同意、协议、合同（n）
+- `air` : 空气、空、通风（n）
+- `amount` : 数量、量、等于（n）
+- `amusement` :  娱乐、消遣（n）
+- `animal` : 动物、兽（n）
+- `answer` : 回答、答案（n）
+- `apparatus` : 仪器、设备（n）
+- `approval` : 同意、赞同（n）
+- `argument` :争论、讨论（n）
+- `art` : 艺术、美术（n）
+- `attack` : 攻击、进攻（n）
+- `attempt` : 试图、尝试（n）
+- `attention` : 注意力、关注、关心（n）
+- `attraction` : 景点、引力、吸力（n）
+- `authority` : 权威、权力（n）
+- `back` : 后退、背面（n）
+- `balance` : 平衡、结余（n）
+- `base` : 根据、基础（n）
+- `behavior` : 行为、表现（n）
+- `belief` : 信仰、信心（n）
+- `birth` : 出生（n）
+- `bit` : 少量、点滴、块（n）
+- `bite` :  咬、啃、咬伤（n）
+- `blood` : 血、血液（n）
+- `blow` : 吹、刮（n）
+- `body` : 身体、机身（n）
+- `brass` :  黄铜（n）
+- `bread` : 面包（n）
+- `breath` : 呼吸、气息（n）
+- `brother` : 兄弟、哥哥、弟弟（你）
+- `building` :  建筑、大厦（n）
+- `burn` : 烧伤、燃烧（v）
 - `burst` :
 - `business` :
 - `butter` :
